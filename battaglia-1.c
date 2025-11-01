@@ -138,4 +138,5 @@ int main(){
 
     printf("\nLa battaglia est finita!\n");
     return 0;
+
 }
